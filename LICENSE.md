@@ -1,4 +1,4 @@
-
+Get the ultimate Alfred for macOS module with Alfred for macOS secure Module: window-management & privacy-protection. Featuring window-management and privacy-protection, it's the
 
 
 
